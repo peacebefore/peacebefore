@@ -1,16 +1,16 @@
-### Hi there 👋
+Nice to meet you! I'm Priya. :vulcan_salute:
 
-<!--
-**peacebefore/peacebefore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Walk with me a bit ~
 
-Here are some ideas to get you started:
+### Here is where I've been
+* Studied English literature and creative writing in college
+  * Poetry, stories, and critical theory
+  * Practiced close attention to detail, analyzed other people's work, produced my own
+* Currently work as a team lead for technical support
+  * Manage a team of 7, training another 13 specialists
+  * Open, honest leadership style with emphasis on constant feedback (goes both ways)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here is where I'm going
+* Front-end engineer
+  * JavaScript, React with redux & hooks, Node.js, and pixel-perfect web design
+ 
