@@ -17,7 +17,7 @@ So far I've got experience with the following:
   * Pixel-perfect design using Figma
   * Proper workflow when committing to GitHub repos in a team
 
-I'm also a woman with ambition! ;) I've got a few ideas for my own app and small business, but I'll need some funds before I can bring these ideas to life.
+I'm also a woman with ambition! I've got a few ideas for my own app and small business, but I'll need some funds before I can bring these ideas to life.
 
 More importantly, my favorite things include ~
   * Marvel movies and TV shows
