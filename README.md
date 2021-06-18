@@ -1,9 +1,5 @@
 Nice to meet you! I'm Priya. :vulcan_salute: Since GitHub repos can only tell you so much, let me tell you about the woman behind the code.
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/42794888/122489595-df190380-cf94-11eb-9f67-9fedb151b837.png" width="75%">
-</p>
-
 I've got two young children and a full time job as a Team Lead / Supervisor for technical support, but my dream is to become a Front-End Engineer.
 
 Whenever I get the chance, I'm learning about web development, UI design principles, and a little bit of back-end stuff.
@@ -26,3 +22,7 @@ More importantly, my favorite things include ~
   * Music - I'm planning to take singing lessons, and also join a dance class if I find one in the area.
 
 If you'd like to chat with me about how I'd be a great addition to your team, hit me up (^_^)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/42794888/122489595-df190380-cf94-11eb-9f67-9fedb151b837.png" width="75%">
+</p>
