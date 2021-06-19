@@ -17,10 +17,9 @@ Skills & Highlights -
 Whenever I get the chance, I'm learning about web development, UI design principles, and a little bit of back-end stuff.
 Special thanks to Zero to Mastery Academy and Profy.Dev, where I am studying best developer practices. 
 
-Moreover, my favorite things include ~
-  * Marvel movies and TV shows
-  * Cool shows on Netflix (Shadow and Bone, The Good Place, New Girl)
-  * TASTY FOOD! If I'm not currently eating, I am thinking about what to try next.
-  * Music - I'm planning to take singing lessons, and also join a dance class if I find one in the area.
+Some other favorite hobbies ~
+  * Watching Marvel movies and TV shows, or cool shows on Netflix (Shadow and Bone, The Good Place, New Girl)
+  * Eating TASTY FOOD! If I'm not currently eating, I am thinking about what to try next.
+  * Listening to and playing music - I sometimes play ukulele with my husband and plan to take singing lessons in the near future so we can play more songs together.
 
-If you'd like to chat with me about how I'd be a great addition to your team, hit me up (^_^)
+Please reach out if you'd like to chat! (^_^)
