@@ -24,5 +24,5 @@ More importantly, my favorite things include ~
 If you'd like to chat with me about how I'd be a great addition to your team, hit me up (^_^)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/42794888/122489595-df190380-cf94-11eb-9f67-9fedb151b837.png" width="75%">
+ <img src="https://user-images.githubusercontent.com/42794888/122637949-1f1bdb80-d0a6-11eb-92b3-a8abe12a7fbf.png" width="75%">
 </p>
