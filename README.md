@@ -1,6 +1,6 @@
 Nice to meet you! I'm Priya. :vulcan_salute: Since GitHub repos can only tell you so much, let me tell you about the woman behind the code.
 
-I've got two young children and a full time job as a Team Lead / Supervisor for technical support, but my dream is to become a Front-End Engineer.
+I currently work full time as a Team Lead / Supervisor for technical support, but my dream is to become a Front-End Engineer.
 
 Whenever I get the chance, I'm learning about web development, UI design principles, and a little bit of back-end stuff.
 Special thanks to Zero to Mastery Academy and Profy.Dev, where I am studying best developer practices. 
