@@ -8,8 +8,9 @@ I currently work full time as a Team Lead for technical customer support, but my
 
 Skills & Highlights -
   * JavaScript
-  * HTML, CSS, and styled-components
-  * React (including Redux, React Router, Context API & Hooks)
+  * HTML, CSS & Bootstrap 
+  * styled-components, including Theme Provider
+  * React (Redux, React Router, Context API & Hooks)
   * Some NodeJS, SQL
   * Some React Native
   * API integrations (Firebase, Google Cloud & Stripe)
