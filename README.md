@@ -1,6 +1,6 @@
 Nice to meet you! I'm Priya. :vulcan_salute: Since GitHub repos can only tell you so much, let me tell you about the woman behind the code.
 
-I currently work full time as a Team Lead for technical support, but my dream is to become a Front-End Engineer.
+I currently work full time as a Team Lead for technical customer support, but my dream is to become a Front-End Engineer.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/42794888/122637949-1f1bdb80-d0a6-11eb-92b3-a8abe12a7fbf.png" width="75%">
@@ -8,9 +8,11 @@ I currently work full time as a Team Lead for technical support, but my dream is
 
 Skills & Highlights -
   * JavaScript
-  * React.js (including redux, hooks)
-  * Node.js
+  * HTML, CSS, and styled-components
+  * React (including Redux, React Router, Context API & Hooks)
+  * Some NodeJS, SQL
   * Some React Native
+  * API integrations (Firebase, Google Cloud & Stripe)
   * Pixel-perfect design using Figma
   * Proper workflow when committing to GitHub repos in a team
 
