@@ -1,6 +1,6 @@
 Nice to meet you! I'm Priya. :vulcan_salute: Since GitHub repos can only tell you so much, let me tell you about the woman behind the code.
 
-I currently work full time as a Team Lead for technical customer support, but my dream is to become a Front-End Engineer.
+I work full time as a Team Lead for technical customer support, and am currently learning front-end web development.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/42794888/122637949-1f1bdb80-d0a6-11eb-92b3-a8abe12a7fbf.png" width="75%">
