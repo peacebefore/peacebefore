@@ -1,7 +1,6 @@
 Nice to meet you! I'm Priya. :vulcan_salute: Since GitHub repos can only tell you so much, let me tell you about the woman behind the code.
 
-Whenever I get the chance, I'm learning about web development, UI design principles, and a little bit of back-end stuff.
-Special thanks to Zero to Mastery Academy and Profy.Dev, where I studied best developer practices. 
+I come from a background in English and creative writing, with experience in project management, business operations, and customer success at SaaS startups. I recently earned my Salesforce Platform Developer I and Salesforce Administrator certifications, and am excited to shift into full-time platform development. 
 
 Some other favorite hobbies ~
   * Watching Marvel movies and TV shows, or cool shows on Netflix (Great British Bake-Off, The Good Place, New Girl)
